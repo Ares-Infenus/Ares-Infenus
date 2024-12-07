@@ -1,5 +1,5 @@
 <!--Banner-->
-![Ares-Infenus Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)
+![Ares-Infenus Banner Image](/banner.png)
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sebastian D. Pinzòn
