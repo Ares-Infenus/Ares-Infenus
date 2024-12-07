@@ -29,7 +29,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,postgres,mongo,git,vscode,docker,aws,linux,c++&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,postgres,mongo,git,vscode,docker,aws,linux,cpp,discord,gcp,github,latex,notion,r,sklearn,tensorflow,&perline=10"  />
 </p>
 <br />
 
