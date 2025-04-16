@@ -63,7 +63,7 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689/cryptos">
+        <a href="https://github.com/Ares-Infenus">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
         </a>
       </p>
@@ -71,7 +71,7 @@
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/Ares-Infenus">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Ares-Infenus&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
