@@ -1,0 +1,123 @@
+<svg width="680" height="540" viewBox="0 0 680 540" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <pattern id="sl" width="1" height="4" patternUnits="userSpaceOnUse">
+    <rect width="1" height="1" y="0" fill="#00ffcc"/>
+  </pattern>
+</defs>
+<style>
+.mono     { font-family: 'Courier New', Courier, monospace; font-size: 13px; fill: #00ffcc; }
+.mono-dim { font-family: 'Courier New', Courier, monospace; font-size: 13px; fill: #00aa88; }
+.mono-hd  { font-family: 'Courier New', Courier, monospace; font-size: 12px; fill: #00ffcc; font-weight: bold; }
+.L1  { opacity:0; animation: fi 0.05s 0.3s forwards; }
+.L2  { opacity:0; animation: fi 0.05s 0.7s forwards; }
+.L3  { opacity:0; animation: fi 0.05s 1.1s forwards; }
+.L4  { opacity:0; animation: fi 0.05s 1.5s forwards; }
+.L5  { opacity:0; animation: fi 0.05s 1.9s forwards; }
+.L6  { opacity:0; animation: fi 0.05s 2.3s forwards; }
+.L7  { opacity:0; animation: fi 0.05s 2.7s forwards; }
+.L8  { opacity:0; animation: fi 0.05s 3.1s forwards; }
+.L9  { opacity:0; animation: fi 0.05s 3.5s forwards; }
+.L10 { opacity:0; animation: fi 0.05s 3.9s forwards; }
+.L11 { opacity:0; animation: fi 0.05s 4.3s forwards; }
+.L12 { opacity:0; animation: fi 0.05s 4.7s forwards; }
+.L13 { opacity:0; animation: fi 0.05s 5.1s forwards; }
+.L14 { opacity:0; animation: fi 0.05s 5.5s forwards; }
+.L15 { opacity:0; animation: fi 0.05s 5.9s forwards; }
+.L16 { opacity:0; animation: fi 0.05s 6.3s forwards; }
+.L17 { opacity:0; animation: fi 0.05s 6.7s forwards; }
+.L18 { opacity:0; animation: fi 0.05s 7.1s forwards; }
+.L19 { opacity:0; animation: fi 0.05s 7.5s forwards; }
+.L20 { opacity:0; animation: fi 0.05s 7.9s forwards; }
+.L21 { opacity:0; animation: fi 0.05s 8.3s forwards; }
+.L22 { opacity:0; animation: fi 0.05s 8.7s forwards; }
+.Lc  { opacity:0; animation: fi 0.05s 9.0s forwards; }
+@keyframes fi { to { opacity:1; } }
+@keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+.cursor { opacity:0; animation: fi 0.05s 9.0s forwards, blink 1s 9.0s step-end infinite; }
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.65} }
+.glow { animation: pulse 3s ease-in-out infinite; }
+</style>
+
+<rect width="680" height="540" fill="#050d0a"/>
+<rect width="680" height="540" fill="url(#sl)" opacity="0.05"/>
+<rect x="10" y="10" width="660" height="520" rx="6" fill="none" stroke="#00ffcc" stroke-width="1"/>
+<rect x="14" y="14" width="652" height="512" rx="4" fill="none" stroke="#004433" stroke-width="0.5"/>
+<rect x="10" y="10" width="660" height="32" rx="6" fill="#00ffcc" opacity="0.07"/>
+<text x="340" y="30" text-anchor="middle" class="mono-hd glow">OPERATOR TERMINAL v2.1  --  CLEARANCE: ACTIVE</text>
+<line x1="10" y1="42" x2="670" y2="42" stroke="#00ffcc" stroke-width="0.8" opacity="0.4"/>
+
+<text x="28" y="67"  class="mono L1">+==================================================================+</text>
+<text x="28" y="85"  class="mono L2">|</text>
+<text x="42" y="85"  class="mono-dim L2">NAME      -&gt;</text>
+<text x="136" y="85" class="mono L2">Sebastian D. Pinzon Zambrano</text>
+<text x="628" y="85" class="mono L2">|</text>
+<text x="28" y="103"  class="mono L3">|</text>
+<text x="42" y="103"  class="mono-dim L3">ALIAS     -&gt;</text>
+<text x="136" y="103" class="mono L3">Ares-Infenus</text>
+<text x="628" y="103" class="mono L3">|</text>
+<text x="28" y="121"  class="mono L4">|</text>
+<text x="42" y="121"  class="mono-dim L4">LOCATION  -&gt;</text>
+<text x="136" y="121" class="mono L4">Colombia</text>
+<text x="628" y="121" class="mono L4">|</text>
+<text x="28" y="139"  class="mono L5">|</text>
+<text x="42" y="139"  class="mono-dim L5">STATUS    -&gt;</text>
+<text x="136" y="139" class="mono L5">Colombian Army [Admin &amp; Ops] + Data Engineering</text>
+<text x="628" y="139" class="mono L5">|</text>
+<text x="28" y="157" class="mono L6">+==================================================================+</text>
+<text x="28" y="175"  class="mono L7">|</text>
+<text x="42" y="175"  class="mono-dim L7">TRANSITION VECTOR:</text>
+<text x="628" y="175" class="mono L7">|</text>
+<text x="28" y="193"  class="mono L8">|</text>
+<text x="52" y="193"  class="mono-dim L8">Military logistics &amp; operations</text>
+<text x="628" y="193" class="mono L8">|</text>
+<text x="28" y="211"  class="mono L9">|</text>
+<text x="52" y="211"  class="mono-dim L9">+--&gt;</text>
+<text x="88" y="211"  class="mono L9">Distributed data systems &amp; ML pipelines</text>
+<text x="628" y="211" class="mono L9">|</text>
+<text x="28" y="229"  class="mono L10">|</text>
+<text x="70" y="229"  class="mono-dim L10">+--&gt;</text>
+<text x="106" y="229" class="mono L10">Remote data engineering roles (USD-denominated)</text>
+<text x="628" y="229" class="mono L10">|</text>
+<text x="28" y="247" class="mono L11">+==================================================================+</text>
+<text x="28" y="265"  class="mono L12">|</text>
+<text x="42" y="265"  class="mono-dim L12">CURRENT STACK:</text>
+<text x="628" y="265" class="mono L12">|</text>
+<text x="28" y="283"  class="mono L13">|</text>
+<text x="52" y="283"  class="mono-dim L13">|--</text>
+<text x="78" y="283"  class="mono L13">PySpark + Delta Lake</text>
+<text x="240" y="283" class="mono-dim L13">[100M+ record pipelines]</text>
+<text x="628" y="283" class="mono L13">|</text>
+<text x="28" y="301"  class="mono L14">|</text>
+<text x="52" y="301"  class="mono-dim L14">|--</text>
+<text x="78" y="301"  class="mono L14">Python . SQL . FastAPI</text>
+<text x="240" y="301" class="mono-dim L14">[core engineering layer]</text>
+<text x="628" y="301" class="mono L14">|</text>
+<text x="28" y="319"  class="mono L15">|</text>
+<text x="52" y="319"  class="mono-dim L15">|--</text>
+<text x="78" y="319"  class="mono L15">Docker . GitHub Actions</text>
+<text x="240" y="319" class="mono-dim L15">[CI/CD &amp; containerization]</text>
+<text x="628" y="319" class="mono L15">|</text>
+<text x="28" y="337"  class="mono L16">|</text>
+<text x="52" y="337"  class="mono-dim L16">|--</text>
+<text x="78" y="337"  class="mono L16">Scikit-learn . HuggingFace</text>
+<text x="240" y="337" class="mono-dim L16">[ML &amp; NLP]</text>
+<text x="628" y="337" class="mono L16">|</text>
+<text x="28" y="355"  class="mono L17">|</text>
+<text x="52" y="355"  class="mono-dim L17">+--</text>
+<text x="78" y="355"  class="mono L17">Streamlit . Power BI</text>
+<text x="240" y="355" class="mono-dim L17">[dashboards &amp; storytelling]</text>
+<text x="628" y="355" class="mono L17">|</text>
+<text x="28" y="373" class="mono L18">+==================================================================+</text>
+<text x="28" y="391"  class="mono L19">|</text>
+<text x="42" y="391"  class="mono-dim L19">MISSION:</text>
+<text x="628" y="391" class="mono L19">|</text>
+<text x="28" y="409"  class="mono L20">|</text>
+<text x="52" y="409"  class="mono L20">Build production-grade data systems. Ship them publicly.</text>
+<text x="628" y="409" class="mono L20">|</text>
+<text x="28" y="427"  class="mono L21">|</text>
+<text x="52" y="427"  class="mono L21">Earn trust through code, not credentials.</text>
+<text x="628" y="427" class="mono L21">|</text>
+<text x="28" y="445" class="mono L22">+==================================================================+</text>
+<text x="28" y="475" class="mono Lc">$</text>
+<rect x="43" y="461" width="9" height="15" fill="#00ffcc" class="cursor"/>
+</svg>
