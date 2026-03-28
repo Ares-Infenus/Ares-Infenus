@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d0d0d,100:1a0a2e&height=300&section=header&text=Sebastian%20D.%20Pinz%C3%B3n%20Zambrano&fontSize=42&fontColor=c8a96e&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Digital%20Alchemist&descAlignY=60&descSize=18&descColor=8a8aaa&stroke=c8a96e&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0a0a,100:001a1a&height=280&section=header&text=Sebastian%20D.%20Pinz%C3%B3n%20Zambrano&fontSize=40&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20ML%20Engineer%20%7C%20Building%20from%20the%20Field&descAlignY=60&descSize=17&descColor=00aa88&stroke=00ffcc&strokeWidth=1" />
 
 </div>
 
@@ -9,169 +8,169 @@
 
 <div align="center">
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=22&duration=3500&pause=1200&color=C8A96E&center=true&vCenter=true&multiline=false&width=700&lines=Transforming+Raw+Data+into+Strategic+Intelligence;Where+Mathematics+Meets+Machine+Intuition;Decoding+the+Hidden+Patterns+of+Reality;Building+Models+that+Think+Beyond+the+Obvious)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=1200&color=00FFCC&center=true&vCenter=true&width=750&lines=Pipelines+that+move+100M%2B+records+without+breaking+a+sweat;From+military+operations+to+distributed+data+systems;Medallion+architecture.+Delta+Lake.+PySpark.+Production.;Not+a+student+project+—+engineered+for+the+real+world.)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<!-- ABOUT ME SECTION -->
-<table>
-<tr>
-<td width="55%">
+---
 
-## `> whoami`
+## `$ whoami`
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name      = "Sebastian D. Pinzón Zambrano"
-        self.role      = "Data Scientist & ML Engineer"
-        self.location  = "Colombia 🇨🇴"
-        self.languages = ["Python", "R", "SQL", "C++"]
-        self.tools     = ["TensorFlow", "Sklearn", "Docker",
-                          "AWS", "GCP", "Power BI", "Tableau"]
-        self.passion   = "Turning chaos into clarity"
-        self.motto     = "Data is the new oil — I refine it."
-
-    def current_focus(self):
-        return [
-            "⬡  Advanced Machine Learning Models",
-            "⬡  Deep Learning Architectures",
-            "⬡  Data Storytelling & Visualization",
-            "⬡  Statistical Inference & Causal AI"
-        ]
-
-    def __str__(self):
-        return f"Scientist. Engineer. Strategist."
-
-me = DataScientist()
-print(me)
+```bash
+╔══════════════════════════════════════════════════════════════════╗
+║              OPERATOR TERMINAL — CLEARANCE: ACTIVE              ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  NAME     →  Sebastian D. Pinzón Zambrano                        ║
+║  ALIAS    →  Ares-Infenus                                        ║
+║  LOCATION →  Colombia 🇨🇴                                        ║
+║  STATUS   →  Colombian Army [Admin & Ops] + Data Engineering     ║
+║                                                                  ║
+║  TRANSITION VECTOR:                                              ║
+║    Military logistics & operations                               ║
+║    └──► Distributed data systems & ML pipelines                  ║
+║         └──► Remote data engineering roles (USD-denominated)     ║
+║                                                                  ║
+║  CURRENT STACK:                                                  ║
+║    ├── PySpark + Delta Lake        [100M+ record pipelines]      ║
+║    ├── Python · SQL · FastAPI      [core engineering layer]      ║
+║    ├── Docker · GitHub Actions     [CI/CD & containerization]    ║
+║    ├── Scikit-learn · HuggingFace  [ML & NLP]                    ║
+║    └── Streamlit · Power BI        [dashboards & storytelling]   ║
+║                                                                  ║
+║  CERTIFICATIONS:                                                 ║
+║    Stanford · Google · AWS · IBM   [verified on LinkedIn]        ║
+║                                                                  ║
+║  MISSION:                                                        ║
+║    Build production-grade data systems. Ship them publicly.      ║
+║    Earn trust through code, not credentials.                     ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-</td>
-<td width="45%">
-
-<div align="center">
-
-## `> stats --live`
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ares-Infenus&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d14&title_color=c8a96e&icon_color=8a6fcf&text_color=c0c0d0&ring_color=c8a96e" width="100%"/>
-
-<img src="https://streak-stats.demolab.com?user=Ares-Infenus&theme=midnight-purple&hide_border=true&background=0d0d14&stroke=c8a96e&ring=8a6fcf&fire=c8a96e&currStreakLabel=c8a96e&sideNums=c0c0d0&dates=666680" width="100%"/>
-
-</div>
-
-</td>
-</tr>
-</table>
-
 ---
 
-<!-- ARSENAL SECTION -->
+## ⬡ &nbsp; `TECHNICAL ARSENAL`
+
 <div align="center">
 
-## ⬡ &nbsp; `TECHNICAL ARSENAL` &nbsp; ⬡
+**— Data Engineering & Pipelines —**
 
-<br/>
-
-**— Data Science & Machine Learning —**
-
-<img src="https://skillicons.dev/icons?i=py,r,sklearn,tensorflow,postgres,mongo&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,postgres,docker,github,linux,bash&perline=6&theme=dark" />
 
 <br/><br/>
 
-**— Infrastructure & Engineering —**
+**— Machine Learning & AI —**
 
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,git,github&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,fastapi,mongodb,redis&perline=6&theme=dark" />
 
 <br/><br/>
 
-**— Visualization & Development —**
+**— Cloud & Infrastructure —**
 
-<img src="https://skillicons.dev/icons?i=js,html,css,latex,cpp,vscode&perline=6&theme=dark" />
-
-</div>
-
----
-
-<!-- TROPHIES -->
-<div align="center">
-
-## 🏆 &nbsp; `ACHIEVEMENTS UNLOCKED`
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ares-Infenus&row=1&column=7&theme=onestar&no-frame=true&margin-w=8&title_color=c8a96e" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,vscode,anaconda,latex&perline=6&theme=dark" />
 
 </div>
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
+## 🛰️ &nbsp; `ACTIVE PROJECTS`
+
 <div align="center">
 
-## 📡 &nbsp; `ACTIVITY SIGNAL`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ares-Infenus&bg_color=0d0d14&color=c8a96e&line=8a6fcf&point=c8a96e&area=true&area_color=1a0a2e&hide_border=true" width="95%"/>
+| Project | Description | Stack |
+|---|---|---|
+| 🔥 **[SparkFlow Delta Pipeline](https://github.com/Ares-Infenus/SparkFlow-Delta-Pipeline)** | Fraud detection at 100M+ records. Medallion architecture (Bronze→Silver→Gold). Full CI/CD. | PySpark · Delta Lake · Docker · GitHub Actions |
+| 📈 **[Markowitz Portfolio Optimizer](https://github.com/Ares-Infenus/markowitz-portfolio-optimizer)** | Four optimization methods incl. Black-Litterman. Dark-themed Streamlit dashboard. | Python · yfinance · Streamlit · Docker |
+| 👁️ **[YOLOv8 Object Detection Pipeline](https://github.com/Ares-Infenus/YOLOv8-Object-Detection)** | Real-time detection on COCO128. Full reproducibility. Professional CI/CD pipeline. | YOLOv8 · Python · Google Colab · GitHub Actions |
 
 </div>
 
 ---
 
-<!-- TOP LANGUAGES -->
+## 📡 &nbsp; `GITHUB SIGNAL`
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ares-Infenus&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d0d14&title_color=c8a96e&text_color=c0c0d0&langs_count=8" width="340"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ares-Infenus&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ffcc&icon_color=00aa88&text_color=a0ffd0&ring_color=00ffcc" width="48%"/>
 
-&nbsp;&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=Ares-Infenus&theme=chartreuse-dark&hide_border=true&background=0a0a0a&stroke=00ffcc&ring=00aa88&fire=00ffcc&currStreakLabel=00ffcc&sideNums=a0ffd0&dates=336655" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ares-Infenus&repo=cryptos&theme=midnight-purple&hide_border=true&bg_color=0d0d14&title_color=c8a96e&icon_color=8a6fcf&text_color=c0c0d0&show_owner=true" width="380"/>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ares-Infenus&bg_color=0a0a0a&color=00ffcc&line=00aa88&point=00ffcc&area=true&area_color=001a1a&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-<!-- PHILOSOPHY -->
+## 🏆 &nbsp; `ACHIEVEMENTS`
+
 <div align="center">
 
-## `> echo $PHILOSOPHY`
+<img src="https://github-profile-trophy.vercel.app/?username=Ares-Infenus&row=1&column=7&theme=matrix&no-frame=true&margin-w=8" />
+
+</div>
+
+---
+
+## 📊 &nbsp; `LANGUAGE DISTRIBUTION`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ares-Infenus&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ffcc&text_color=a0ffd0&langs_count=8" width="340"/>
+
+</div>
+
+---
+
+## `$ echo $PHILOSOPHY`
+
+<div align="center">
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20God%20we%20trust%2C%20all%20others%20must%20bring%20data.&author=W.%20Edwards%20Deming&bg_color=0d0d14&border_color=c8a96e" width="75%"/>
+```
+"Discipline doesn't wait for the right conditions.
+ Neither does good engineering."
+
+ — S. D. Pinzón Zambrano
+```
 
 <br/>
 
-> *"The universe is written in the language of mathematics — I choose to read it."*
->
-> — **S. D. Pinzón Zambrano**
+> *The military taught me to execute under pressure.*
+> *Data engineering taught me that systems either hold — or they don't.*
+> *I build systems that hold.*
 
 </div>
 
 ---
 
-<!-- CONNECT SECTION -->
-<div align="center">
+## `$ connect --open`
 
-## `> connect --protocol PROFESSIONAL`
+<div align="center">
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Pinzón-0d0d14?style=for-the-badge&logo=linkedin&logoColor=c8a96e&labelColor=0d0d14&color=c8a96e)](https://www.linkedin.com/in/sebastiandpinzon/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Pinzón-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00ffcc&labelColor=0a0a0a&color=00ffcc)](https://www.linkedin.com/in/sebastiandpinzon/)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-spinzonzambrano-0d0d14?style=for-the-badge&logo=gmail&logoColor=c8a96e&labelColor=0d0d14&color=c8a96e)](mailto:spinzonzambrano@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-spinzonzambrano-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00ffcc&labelColor=0a0a0a&color=00ffcc)](mailto:spinzonzambrano@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Ares--Infenus-0d0d14?style=for-the-badge&logo=github&logoColor=c8a96e&labelColor=0d0d14&color=c8a96e)](https://github.com/Ares-Infenus)
+[![GitHub](https://img.shields.io/badge/GitHub-Ares--Infenus-0a0a0a?style=for-the-badge&logo=github&logoColor=00ffcc&labelColor=0a0a0a&color=00ffcc)](https://github.com/Ares-Infenus)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ares-infenus&label=PROFILE+VIEWS&color=c8a96e&style=for-the-badge&labelColor=0d0d14)
+![Profile Views](https://komarev.com/ghpvc/?username=Ares-Infenus&label=PROFILE+VIEWS&color=00ffcc&style=for-the-badge&labelColor=0a0a0a)
 
 </div>
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0a2e,50:0d0d0d,100:000000&height=120&section=footer&fontColor=c8a96e&animation=fadeIn&stroke=c8a96e&strokeWidth=1" />
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001a1a,50:0a0a0a,100:000000&height=120&section=footer&fontColor=00ffcc&animation=fadeIn&stroke=00ffcc&strokeWidth=1" />
 
 <div align="center">
-<sub><sup>⬡ &nbsp; Crafted with precision by Sebastian D. Pinzón Zambrano &nbsp; ⬡ &nbsp; Data Scientist &nbsp; ⬡</sup></sub>
+<sub><sup>⬡ &nbsp; Engineered with precision by Sebastian D. Pinzón Zambrano &nbsp; ⬡ &nbsp; Data Engineer · ML Engineer &nbsp; ⬡</sup></sub>
 </div>
