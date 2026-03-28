@@ -18,37 +18,9 @@
 
 ## `$ whoami`
 
-```bash
-╔══════════════════════════════════════════════════════════════════╗
-║              OPERATOR TERMINAL — CLEARANCE: ACTIVE              ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  NAME     →  Sebastian D. Pinzón Zambrano                        ║
-║  ALIAS    →  Ares-Infenus                                        ║
-║  LOCATION →  Colombia 🇨🇴                                        ║
-║  STATUS   →  Colombian Army [Admin & Ops] + Data Engineering     ║
-║                                                                  ║
-║  TRANSITION VECTOR:                                              ║
-║    Military logistics & operations                               ║
-║    └──► Distributed data systems & ML pipelines                  ║
-║         └──► Remote data engineering roles (USD-denominated)     ║
-║                                                                  ║
-║  CURRENT STACK:                                                  ║
-║    ├── PySpark + Delta Lake        [100M+ record pipelines]      ║
-║    ├── Python · SQL · FastAPI      [core engineering layer]      ║
-║    ├── Docker · GitHub Actions     [CI/CD & containerization]    ║
-║    ├── Scikit-learn · HuggingFace  [ML & NLP]                    ║
-║    └── Streamlit · Power BI        [dashboards & storytelling]   ║
-║                                                                  ║
-║  CERTIFICATIONS:                                                 ║
-║    Stanford · Google · AWS · IBM   [verified on LinkedIn]        ║
-║                                                                  ║
-║  MISSION:                                                        ║
-║    Build production-grade data systems. Ship them publicly.      ║
-║    Earn trust through code, not credentials.                     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+  <img src="./assets/terminal.svg" alt="whoami terminal animation"/>
+</div>
 
 ---
 
