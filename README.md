@@ -82,9 +82,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔥 **[SparkFlow Delta Pipeline](https://github.com/Ares-Infenus/SparkFlow-Delta-Pipeline)** | Fraud detection at 100M+ records. Medallion architecture (Bronze→Silver→Gold). Full CI/CD. | PySpark · Delta Lake · Docker · GitHub Actions |
+| 🔥 **[SparkFlow Delta Pipeline](https://github.com/Ares-Infenus/SparkFlow_Delta_Pipeline)** | Fraud detection at 100M+ records. Medallion architecture (Bronze→Silver→Gold). Full CI/CD. | PySpark · Delta Lake · Docker · GitHub Actions |
 | 📈 **[Markowitz Portfolio Optimizer](https://github.com/Ares-Infenus/markowitz-portfolio-optimizer)** | Four optimization methods incl. Black-Litterman. Dark-themed Streamlit dashboard. | Python · yfinance · Streamlit · Docker |
-| 👁️ **[YOLOv8 Object Detection Pipeline](https://github.com/Ares-Infenus/YOLOv8-Object-Detection)** | Real-time detection on COCO128. Full reproducibility. Professional CI/CD pipeline. | YOLOv8 · Python · Google Colab · GitHub Actions |
+| 👁️ **[YOLOv8 Object Detection Pipeline](https://github.com/Ares-Infenus/yolov8-object-detection-pipeline)** | Real-time detection on COCO128. Full reproducibility. Professional CI/CD pipeline. | YOLOv8 · Python · Google Colab · GitHub Actions |
 
 </div>
 
@@ -106,23 +106,44 @@
 
 ---
 
-## 🏆 &nbsp; `ACHIEVEMENTS`
+## 🎓 &nbsp; `CERTIFICATIONS`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ares-Infenus&row=1&column=7&theme=matrix&no-frame=true&margin-w=8" />
+![Stanford](https://img.shields.io/badge/Stanford_University-Machine_Learning-0a0a0a?style=for-the-badge&logo=coursera&logoColor=00ffcc&labelColor=0a0a0a&color=00ffcc)
+![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-TensorFlow_Developer-0a0a0a?style=for-the-badge&logo=tensorflow&logoColor=00ffcc&labelColor=0a0a0a&color=00ffcc)
+![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Deep_Learning_Specialization-0a0a0a?style=for-the-badge&logo=tensorflow&logoColor=00ffcc&labelColor=0a0a0a&color=00ffcc)
+
+![AWS](https://img.shields.io/badge/AWS-Cloud_Solutions_Architect-0a0a0a?style=for-the-badge&logo=amazonaws&logoColor=00ffcc&labelColor=0a0a0a&color=00ffcc)
+![Duke](https://img.shields.io/badge/Duke_University-MLOps_%7C_ML_Operations-0a0a0a?style=for-the-badge&logo=coursera&logoColor=00ffcc&labelColor=0a0a0a&color=00ffcc)
+![Imperial](https://img.shields.io/badge/Imperial_College_London-Mathematics_for_ML-0a0a0a?style=for-the-badge&logo=coursera&logoColor=00ffcc&labelColor=0a0a0a&color=00ffcc)
+
+![Google](https://img.shields.io/badge/Google-Data_Analytics-0a0a0a?style=for-the-badge&logo=google&logoColor=00ffcc&labelColor=0a0a0a&color=00ffcc)
+![IBM](https://img.shields.io/badge/IBM-Data_Science_Professional-0a0a0a?style=for-the-badge&logo=ibm&logoColor=00ffcc&labelColor=0a0a0a&color=00ffcc)
+![Michigan](https://img.shields.io/badge/U._Michigan-Applied_Data_Science_with_Python-0a0a0a?style=for-the-badge&logo=coursera&logoColor=00ffcc&labelColor=0a0a0a&color=00ffcc)
+
+![JHU](https://img.shields.io/badge/Johns_Hopkins-Data_Science_Foundations_R-0a0a0a?style=for-the-badge&logo=coursera&logoColor=00ffcc&labelColor=0a0a0a&color=00ffcc)
+![Michigan PG](https://img.shields.io/badge/U._Michigan-PostgreSQL_for_Everybody-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=00ffcc&labelColor=0a0a0a&color=00ffcc)
+![UC Davis](https://img.shields.io/badge/UC_Davis-SQL_for_Data_Science-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=00ffcc&labelColor=0a0a0a&color=00ffcc)
+
+![Alberta](https://img.shields.io/badge/U._Alberta-Software_Design_%26_Architecture-0a0a0a?style=for-the-badge&logo=coursera&logoColor=00ffcc&labelColor=0a0a0a&color=00ffcc)
 
 </div>
 
 ---
 
-## 📊 &nbsp; `LANGUAGE DISTRIBUTION`
+## 📊 &nbsp; `LANGUAGE PROFICIENCY`
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ares-Infenus&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ffcc&text_color=a0ffd0&langs_count=8" width="340"/>
-
-</div>
+```
+Python      ████████████████████░░░  90%   Core language — pipelines, ML, APIs
+SQL         ████████████████████░░░  85%   PostgreSQL, analytical queries, DWH
+PySpark     ████████████████░░░░░░░  70%   Distributed processing at scale
+Bash/Shell  ███████████████░░░░░░░░  65%   Automation, CI/CD scripting
+R           █████████████░░░░░░░░░░  55%   Statistical modeling, Johns Hopkins
+YAML/Docker ████████████░░░░░░░░░░░  52%   Container orchestration, pipelines
+C++         ████████░░░░░░░░░░░░░░░  35%   Foundations, algorithms
+JavaScript  ██████░░░░░░░░░░░░░░░░░  25%   Dashboard interactivity
+```
 
 ---
 
